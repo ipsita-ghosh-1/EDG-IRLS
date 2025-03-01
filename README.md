@@ -2,7 +2,8 @@
 Official Code for the Paper "Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization"
 
 # Execution 
-For executing our algorithm run the following command:
+For executing our algorithm run the following command: <br>
+
 Protein Data 
 ```
 problem = struct;problem.type = '1AX8';N0=500;N0_inner=500;N0_firstorder=5000;tolerance = 1e-12;r_list=[2,3];oversampling_list=[0.5,1.1];instancesize=1;alg_name={'MatrixIRLS','ScaledSGD','AL_BurerMonteiro','ReiEDG'};snippet_EDG_phasetransitions;
