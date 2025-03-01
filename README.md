@@ -1,4 +1,8 @@
-# SEGRED-NCO
+# Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization (NeurIPS 2024)
+[Read the full paper here!](https://openreview.net/pdf?id=Yu7H8ZOuI2)  
+
+This is the official repository of 'Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization' (NeurIPS 2024).
+
 Official Code for the Paper "Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization"
 
 # Execution 
