@@ -1,9 +1,9 @@
-# Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization (NeurIPS 2024)
-[Read the full paper here!](https://openreview.net/pdf?id=Yu7H8ZOuI2)  
+# 📌 Sample-Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization (NeurIPS 2024)  
 
-This is the official repository of 'Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization' (NeurIPS 2024).
+📄 **[Paper Link.](https://openreview.net/pdf?id=Yu7H8ZOuI2)**  
 
-Official Code for the Paper "Sample Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization"
+Welcome to the official repository of **Sample-Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization**, presented at **NeurIPS 2024**! 
+
 
 # Execution 
 For executing our algorithm run the following command: <br>
